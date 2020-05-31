@@ -3,6 +3,7 @@ Individual project part A
 Α command prompt (console) application.
 
 The application asks from the command prompt to input data to all the entities and it gives the option to add more than one entry at a time.
+
 If the user decides not to type any data, the program uses synthetic data.
 Also, the program is able to output the following:
 • A list of all the entities (students,trainers, assignments,courses)
